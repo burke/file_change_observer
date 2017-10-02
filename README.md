@@ -1,5 +1,7 @@
 # FileChangeObserver
 
+**This gem *only* supports macOS**.
+
 ```ruby
 require 'tmpdir'
 
